@@ -80,7 +80,7 @@ To deploy the application to Firebase Hosting:
 
    Ensure that you have the Firebase CLI installed and are authenticated.
 
-
+---
 
 *This project was developed as part of the Smart India Hackathon (SIH) initiative, aiming to provide innovative solutions to real-world problems.*
 
